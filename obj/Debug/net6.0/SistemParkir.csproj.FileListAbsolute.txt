@@ -1,0 +1,15 @@
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.csproj.AssemblyReference.cache
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.GeneratedMSBuildEditorConfig.editorconfig
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.AssemblyInfoInputs.cache
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.AssemblyInfo.cs
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.csproj.CoreCompileInputs.cache
+/home/pampam/Desktop/SistemParkir/bin/Debug/net6.0/SistemParkir
+/home/pampam/Desktop/SistemParkir/bin/Debug/net6.0/SistemParkir.deps.json
+/home/pampam/Desktop/SistemParkir/bin/Debug/net6.0/SistemParkir.runtimeconfig.json
+/home/pampam/Desktop/SistemParkir/bin/Debug/net6.0/SistemParkir.dll
+/home/pampam/Desktop/SistemParkir/bin/Debug/net6.0/ref/SistemParkir.dll
+/home/pampam/Desktop/SistemParkir/bin/Debug/net6.0/SistemParkir.pdb
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.dll
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/ref/SistemParkir.dll
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.pdb
+/home/pampam/Desktop/SistemParkir/obj/Debug/net6.0/SistemParkir.genruntimeconfig.cache
